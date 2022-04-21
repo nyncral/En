@@ -2219,6 +2219,10 @@ input, select, textarea {
 			perspective: 500px;
 		}
 
+		.image.icon.LD50WS {
+			background-image url("images/LD50WS.png");
+		}
+
 			.image.icon:before {
 				-moz-transition: -moz-transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
 				-webkit-transition: -webkit-transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
